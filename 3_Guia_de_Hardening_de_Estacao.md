@@ -10,7 +10,7 @@ Definir um processo claro e eficiente para responder a incidentes de segurança,
 
 ### 2.1. Identificação
 - Qualquer colaborador que suspeitar de um incidente (ex: e-mail de phishing, comportamento estranho do computador, suspeita de vírus) deve **imediatamente** notificar a equipe de Suporte de TI.
-- **Contato do Suporte:** (16) 99999-9999 | suporte.ti@empresa_ficticia.com.br
+- **Contato do Suporte:** (16) 99999-9999 | suporte.ti@exemplo.com.br
 
 ### 2.2. Contenção
 - A primeira ação da equipe de TI será isolar o sistema afetado para prevenir que o incidente se espalhe.
