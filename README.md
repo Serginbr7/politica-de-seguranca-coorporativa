@@ -26,14 +26,13 @@ Este projeto foi desenvolvido como uma forma de materializar e apresentar minhas
 
 O projeto está organizado da seguinte forma:
 /
-├── 📄 1_Politica_de_Controle_de_Acesso.md
+── 📄 1_Politica_de_Controle_de_Acesso.md
 
-│
-├── 📄 2_Plano_de_Resposta_a_Incidentes.md
-│
-├── 📄 3_Guia_de_Hardening_de_Estacao.md
-│
-└── 📄 4_Politica_de_Uso_Aceitavel.md
+── 📄 2_Plano_de_Resposta_a_Incidentes.md
+
+── 📄 3_Guia_de_Hardening_de_Estacao.md
+
+── 📄 4_Politica_de_Uso_Aceitavel.md
 
 * **`1_Politica_de_Controle_de_Acesso.md`**: Define as diretrizes para o gerenciamento de acessos aos sistemas, abordando senhas e o Princípio do Menor Privilégio (PoLP).
 * **`2_Plano_de_Resposta_a_Incidentes.md`**: Apresenta um plano de ação para a equipe de TI seguir em caso de um incidente de segurança.
