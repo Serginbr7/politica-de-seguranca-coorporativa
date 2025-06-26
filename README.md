@@ -25,7 +25,7 @@ Este projeto foi desenvolvido como uma forma de materializar e apresentar minhas
 ## 📂 Estrutura do Repositório
 
 O projeto está organizado da seguinte forma:
-/
+
 
 
 ── 📄 1_Politica_de_Controle_de_Acesso.md
