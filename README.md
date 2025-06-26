@@ -5,7 +5,7 @@
 ![Licença](https://img.shields.io/github/license/Serginbr7/politica-de-seguranca-corporativa?style=for-the-badge)
 
 ---
-
+ 
 ## 📖 Sobre o Projeto
 
 Este repositório é um portfólio prático que demonstra a criação de um conjunto de **Políticas de Segurança da Informação (PSI)** para uma empresa fictícia. O objetivo é aplicar o conhecimento teórico em governança de TI, usando como base principal os controles e as melhores práticas da norma **ISO/IEC 27002**, que serve de guia para a implementação da ISO/IEC 27001.
