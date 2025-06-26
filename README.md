@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
 ![Norma](https://img.shields.io/badge/Norma-ISO%2027002-blue?style=for-the-badge)
-![Licença](https://img.shields.io/github/license/Serginbr7/politica-de-seguranca-corporativa?style=for-the-badge)
+![Licença](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
 ---
  
